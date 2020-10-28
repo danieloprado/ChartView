@@ -163,7 +163,6 @@ extension Line {
             .onDisappear {
                 self.showFull = false
             }
-            .drawingGroup()
     }
 }
 
